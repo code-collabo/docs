@@ -5,5 +5,5 @@
 - [code-collabo/git-and-github-for-collaboration/doc](https://github.com/code-collabo/git-and-github-for-collaboration/tree/develop/doc)
 
 #
-Submit improvement for community and individual projects documentation or find documentation issues to resolve here: https://github.com/code-collabo/docs/issues
+Submit improvement for community and individual projects documentation, or find community and individual projects documentation issues to resolve here: https://github.com/code-collabo/docs/issues
 
