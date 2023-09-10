@@ -24,4 +24,4 @@ Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This i
 
 ## Join our Discord community server
 
-[Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation: give and receive feedback, get support, and support others](https://discord.gg/p3YSnWfn) 🤝
+[Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation using this link: give and receive feedback, get support, and support others](https://discord.gg/p3YSnWfn) 🤝
