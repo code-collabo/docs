@@ -1,16 +1,17 @@
 # Table of contents
 
-* [Code Collabo documentation](README.md)
+* [👋 Code Collabo](README.md)
 
-## collabo guidelines
+## collabo website
 
-* [Code of Conduct](collabo-guidelines/code-of-conduct.md)
-* [Contribution guidelines](collabo-guidelines/contributing.md)
-
-## collabo projects
-
-* [TODO: Add projects doc link](collabo-projects/todo-add-projects-doc-link.md)
+* [Collabo Website](https://code-collabo.gitbook.io/docs/)
 
 ## collabo contributors
 
-* [TODO: Add contributors link](collabo-contributors/todo-add-contributors-link.md)
+* [Collabo Contributors](https://github.com/code-collabo/.github#collabo-contributors)
+
+## delete later
+
+* [Copy of Documentation](delete-later/README.md)
+* [Code of Conduct](delete-later/code-of-conduct.md)
+* [Contribution guidelines](delete-later/contributing.md)

@@ -1,31 +1,27 @@
 ---
-description: CODE COLLABO FOSS COMMUNITY AND PROJECTS DOCUMENTATION
+description: F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
 ---
 
-# Code Collabo documentation
-
-[![Collabo Contributors](https://img.shields.io/badge/Collabo%20contributors-21-orange)](https://github.com/code-collabo/.github#collabo-contributors) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://code-collabo.gitbook.io/community-doc-v1.0.0/collabo-guidelines/contributing) [![License: AGPL 3.0](https://img.shields.io/badge/License-AGPL-blue.svg)](https://github.com/code-collabo/node-mongo-api-boilerplate-templates/blob/develop/LICENSE) [![GitHub issues](https://img.shields.io/github/issues/code-collabo/docs?color=red)](https://github.com/code-collabo/docs/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/code-collabo/docs?color=goldenrod)](https://github.com/code-collabo/docs/pulls)
-
-![Collabo banner image](https://user-images.githubusercontent.com/45185388/235613891-c1514c30-136b-4b1f-b9b4-260fd6ef7c26.png)
-
-Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo).
+# 👋 Code Collabo
 
 ***
 
-## How and where to start?
-
-Start by reading these resources to learn more about the Code Collabo program and FOSS community, and open source in general.
-
-* [Code Collabo FOSS Community](https://code-collabo.hashnode.dev/what-is-code-collabo-and-who-is-it-for)
-* [What does "Free and Open Source" mean?](https://code-collabo.hashnode.dev/what-does-free-and-open-source-mean)
-* Learn to use Git and GitHub for collaboration
-
-{% hint style="info" %}
-Our Git and GitHub for Collaboration course link is currently no longer available as there is a need to update its content. We encourage you to visit YouTube tutorials or take courses on Git and GitHub pending the time it will be released again. You can also contribute to the development of the course.
-{% endhint %}
+Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the Code Collabo community project. What would you like to know about Code Collabo?
 
 ***
 
-## Contribute to Code collabo
+## Use Code Collabo products
 
-Find the link to the Code Collabo FOSS community Gitter chat, the guidelines for contributing, and projects to contribute to, using the sidebar menu of this documentation.
+[The documentation pages in this link contain information about all ready-to-use products made by the Code Collabo community, who and what they are for, and how to use each of them. Explore the various products made with love by Code Collabo community contributors.](https://code-collabo.gitbook.io/docs/)
+
+***
+
+## Contribute to Code Collabo
+
+[The documentation pages in this link help interested contributors with information about the following: types of projects that exist in Code Collabo, how to contribute to any of the projects, and the workflows we adopt while developing the projects.](https://code-collabo.gitbook.io/docs/)
+
+***
+
+## Join our Discord community server
+
+[Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation: give and receive feedback, get support, and support others](https://discord.gg/p3YSnWfn) 🤝
