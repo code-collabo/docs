@@ -6,7 +6,7 @@ description: F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
 
 ***
 
-Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the Code Collabo community project. What would you like to know about Code Collabo?
+_Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the Code Collabo community project. What would you like to know about Code Collabo?_
 
 ***
 
