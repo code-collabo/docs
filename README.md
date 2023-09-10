@@ -1,7 +1,7 @@
 # Collabo Documentation
 
 - Use documentation: https://code-collabo.gitbook.io/docs/
-- Contribute to documentation: Doc not yet created
+- Contribute to documentation projects: Doc not yet created
 
 
 
