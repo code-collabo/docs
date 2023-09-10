@@ -1,27 +1,21 @@
 ---
-description: F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
+description: USE CODE COLLABO COMMUNITY PROJECTS
 ---
 
-# 👋 Code Collabo
+# 🎁 Use Collabo projects
 
 ***
 
-Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This is the official documentation for the Code Collabo community project. What would you like to know about Code Collabo?
+_In this guide, you will find the list of ready-for-use projects (created by code collabo community contributors)._
 
 ***
 
-## Use Code Collabo products
+## Node Mongo
 
-[The documentation pages in this link contain information about all ready-to-use products made by the Code Collabo community, who and what they are for, and how to use each of them. Explore the various products made with love by Code Collabo community contributors.](https://code-collabo.gitbook.io/docs/)
-
-***
-
-## Contribute to Code Collabo
-
-[The documentation pages in this link help interested contributors with information about the following: types of projects that exist in Code Collabo, how to contribute to any of the projects, and the workflows we adopt while developing the projects.](https://code-collabo.gitbook.io/docs/)
+[Build simple to complex backend applications for your projects with our node-mongo packages. Click on this link to go to the download and usage instructions.](https://code-collabo.gitbook.io/node-mongo-v2.3.0)
 
 ***
 
-## Join our Discord community server
+## Community Blog
 
-[Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation using this link: give and receive feedback, get support, and support others](https://discord.gg/p3YSnWfn) 🤝
+[Find, read, and share interesting educative content/topics around open source, open source contributions, and app development generally.](https://code-collabo.hashnode.dev/)

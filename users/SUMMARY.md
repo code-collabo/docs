@@ -1,6 +1,12 @@
 # Table of contents
 
-* [👋 Code Collabo](README.md)
+## currently reading
+
+* [🎁 Use Collabo projects](README.md)
+
+## back to docs home
+
+* [👋 Code Collabo](https://code-collabo.gitbook.io/docs/)
 
 ## collabo website
 
