@@ -10,9 +10,9 @@ Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This i
 
 ***
 
-## Use Code Collabo products
+## Use Code Collabo projects
 
-[The documentation pages in this link contain information about all ready-to-use products made by the Code Collabo community, who and what they are for, and how to use each of them. Explore the various products made with love by Code Collabo community contributors.](https://code-collabo.gitbook.io/docs/)
+[The documentation pages in this link contain information about all ready-to-use products made by the Code Collabo community, who and what they are for, and how to use each of them. Explore the various products made with love by Code Collabo community contributors.](https://code-collabo.gitbook.io/users/)
 
 ***
 
