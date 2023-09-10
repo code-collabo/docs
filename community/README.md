@@ -12,7 +12,7 @@ _Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This 
 
 ## Use Code Collabo projects
 
-The documentation pages here contain information about all ready-to-use products made by the Code Collabo community, who and what they are for, and how to use each of them. Explore the various products made with love by Code Collabo community contributors. [_**Go to User docs.**_](https://code-collabo.gitbook.io/users/)
+The documentation pages here contain information about all our ready-to-use products that can be used for projects within or outside the Code Collabo Community. Also covers who and what they are for, and how to use each of them. [_**Go to User docs.**_](https://code-collabo.gitbook.io/users/)
 
 ***
 
