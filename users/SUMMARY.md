@@ -1,6 +1,6 @@
 # Table of contents
 
-## currently reading
+## collabo user docs
 
 * [🎁 Use Collabo projects](README.md)
 
