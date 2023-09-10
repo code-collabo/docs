@@ -1,5 +1,6 @@
 ---
 description: OUR F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
+coverY: 0
 ---
 
 # 👋 Code Collabo
