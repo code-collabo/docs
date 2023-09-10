@@ -1,4 +1,14 @@
-# Docs
+# Collabo Documentation
+
+- Use documentation: https://code-collabo.gitbook.io/docs/
+- Contribute to documentation: Doc not yet created
+
+
+
+#
+
+> Remove the parts below when done.
+
 **Docs** is the group name for [@code-collabo](https://github.com/code-collabo) community and individual projects documentation listed below: 
 - [code-collabo/community-doc](https://github.com/code-collabo/community-doc)
 - [code-collabo/node-mongo/doc](https://github.com/code-collabo/node-mongo/tree/develop/doc)
