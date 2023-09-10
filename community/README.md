@@ -18,7 +18,7 @@ _Welcome to the Code Collabo Free and Open Source Software Community! 🙌 This 
 
 ## Contribute to Code Collabo
 
-[The documentation pages in this link help interested contributors with information about the following: types of projects that exist in Code Collabo, how to contribute to any of the projects, and the workflows we adopt while developing the projects.](https://code-collabo.gitbook.io/docs/)
+[The documentation pages in this link help interested contributors with information about the following: types of projects that exist in Code Collabo, how to contribute to any of the projects, and the workflows we adopt while developing the projects.](https://code-collabo.gitbook.io/collabo-contributor/)
 
 ***
 
