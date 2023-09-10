@@ -1,5 +1,5 @@
 ---
-description: F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
+description: OUR F.O.S.S COMMUNITY, USER AND PROJECTS DOCUMENTATION
 ---
 
 # 👋 Code Collabo

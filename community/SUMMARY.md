@@ -3,6 +3,7 @@
 ## collabo docs home
 
 * [👋 Code Collabo](README.md)
+* [🚶 Collabo Docs Walkthrough](collabo-docs-home/collabo-docs-walkthrough.md)
 
 ## collabo website
 
