@@ -12,7 +12,7 @@ _In this guide, you will find the list of projects (created by code collabo comm
 
 ## Node Mongo
 
-Build simple to complex backend applications for your projects with our node-mongo packages. Click on this link to go to the download and usage instructions. [_**Go to Node Mongo user docs.**_](https://code-collabo.gitbook.io/node-mongo-v2.3.0)
+Build simple to complex backend applications for your projects with our node-mongo packages. Click on this link to go to the download and usage instructions. [_**Go to Node Mongo user docs.**_](https://code-collabo.gitbook.io/node-mongo-user/)
 
 ***
 
