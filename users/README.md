@@ -2,11 +2,11 @@
 description: USE CODE COLLABO COMMUNITY PROJECTS
 ---
 
-# 🎁 Use Collabo projects
+# 🎁 User Docs: Use Collabo projects
 
 ***
 
-_In this guide, you will find the list of projects (created by code collabo community contributors), that you can use in/for your own projects or that you can learn from._
+_In this guide, you will find the list of projects from our community that you can use in/for your own projects or that you can learn with._
 
 ***
 

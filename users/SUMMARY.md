@@ -2,7 +2,7 @@
 
 ## collabo user docs
 
-* [🎁 Use Collabo projects](README.md)
+* [🎁 User Docs: Use Collabo projects](README.md)
 
 ## back to docs home
 
