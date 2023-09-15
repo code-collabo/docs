@@ -24,4 +24,4 @@ The documentation pages here help interested contributors with information about
 
 ## Join our Discord community server
 
-Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation using this link: give and receive feedback, get help and support, help and support others. [_**Accept the invite to our Discord Community**_](https://discord.gg/p3YSnWfn) 🤝
+Whether you are a contributor or user, our Discord community server is where you will get the support you need. Join in the conversation using this link: give and receive feedback, get help and support, help and support others. [_**Accept the invite to our Discord Community**_](https://discord.gg/aq7MZBAGYM) 🤝
