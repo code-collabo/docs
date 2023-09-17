@@ -1,6 +1,6 @@
-# Collabo Documentation
+# Code Collabo Documentation
 
-Link to community and projects documentation: https://code-collabo.gitbook.io/docs
+Link to Code Collabo's community and projects documentation: https://code-collabo.gitbook.io/docs
 
 #
 
