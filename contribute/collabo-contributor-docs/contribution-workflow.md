@@ -1,5 +1,5 @@
 ---
-description: PROJECTS AND TASKS WORKFLOW ON GITHUB
+description: CODE COLLABO PROJECTS AND TASKS WORKFLOW ON GITHUB
 ---
 
 # 🟨 Contribution Workflow

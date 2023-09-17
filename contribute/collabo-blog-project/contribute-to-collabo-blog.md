@@ -7,5 +7,5 @@ description: CONTRIBUTING DOC FOR COLLABO BLOG
 ***
 
 {% hint style="info" %}
-_**Volunteer:**_ Doc pages not yet available. Help complete Collabo docs
+_**Doc coming soon:**_ Check back on or before the last day of September 2023.
 {% endhint %}

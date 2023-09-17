@@ -1,5 +1,5 @@
 ---
-description: COLLABO COMMUNITY CODE OF CONDUCT
+description: CODE COLLABO COMMUNITY CODE OF CONDUCT
 ---
 
 # 📔 Code of Conduct

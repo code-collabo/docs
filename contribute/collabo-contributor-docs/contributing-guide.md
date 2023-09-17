@@ -1,5 +1,5 @@
 ---
-description: COLLABO COMMUNITY CONTRIBUTING GUIDE
+description: CODE COLLABO COMMUNITY CONTRIBUTING GUIDE
 ---
 
 # 💡 Contributing guide
