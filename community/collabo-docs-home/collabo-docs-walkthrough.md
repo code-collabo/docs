@@ -7,5 +7,5 @@ description: CODE COLLABO DOCUMENTATION WALKTHROUGH
 ***
 
 {% hint style="info" %}
-**Volunteer:** Help create a write-up here to help walk our documentation users through the following: how to get the best from and use the documentation effectively.
+**Doc coming soon:** Check back on or before the last day of September 2023.
 {% endhint %}
