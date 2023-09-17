@@ -7,5 +7,5 @@ description: CONTRIBUTING DOC FOR COLLABO WEB APP
 ***
 
 {% hint style="info" %}
-_**Doc coming soon:**_ Check back on or before the last day of September 2023.
+_**Doc content coming soon:**_ Check back on or before the last day of September 2023.
 {% endhint %}
