@@ -1,8 +1,10 @@
 # Table of contents
 
-## contributor docs for documentation projects
+## contribution workflows
 
-* [ℹ Doc page not yet available](README.md)
+* [Workflow for Contributors](README.md)
+* [Workflow for Interns](contribution-workflows/workflow-for-interns.md)
+* [Workflow for Maintainers](contribution-workflows/workflow-for-maintainers.md)
 
 ## back to main docs
 
