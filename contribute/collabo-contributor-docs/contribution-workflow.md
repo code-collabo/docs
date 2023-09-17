@@ -10,12 +10,6 @@ _On this page, you will find information on the different contribution workflows
 
 ***
 
-{% hint style="info" %}
-The [_**code-collabo GitHub organization**_](https://github.com/code-collabo) is where you will find Code Collabo community project repositories
-{% endhint %}
-
-***
-
 ## Contribution Workflow for Contributors
 
 The contribution workflow for general/volunteer contributors within the community can be found here. [_**Go to Workflow for contributors.**_](https://code-collabo.gitbook.io/collabo-contributor-workflows/contribution-workflows/workflow-for-contributors)
