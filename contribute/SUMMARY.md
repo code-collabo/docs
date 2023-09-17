@@ -7,9 +7,9 @@
 * [💡 Contributing guide](collabo-contributor-docs/contributing-guide.md)
 * [🟨 Contribution Workflow](collabo-contributor-docs/contribution-workflow.md)
 
-## node mongo project
+## node mongo projects
 
-* [ℹ Contribute to Node Mongo Projects](node-mongo-project/contribute-to-node-mongo-projects.md)
+* [ℹ Contribute to Node Mongo Projects](node-mongo-projects/contribute-to-node-mongo-projects.md)
 
 ## collabo web app project
 
