@@ -63,7 +63,7 @@ _**Repository:**_ [https://github.com/code-collabo/node-mongo-api-boilerplate-te
 
 ***
 
-Clone the repository locally on your computer (don't forget to create a new branch from develop before adding and pushing your changes) - see the _**Contribution Workflow**_ page for detailed workflow info. Change directory into the root of the API boilerplate template repository, and run the same npm scripts mentioned in the user doc i.e. npm install, npm run dev:atlas, npm run dev:local, etc.
+Clone the repository locally on your computer (don't forget to create a new branch from develop before adding and pushing your changes) - see the _**Contribution Workflow**_ page for detailed workflow info. Change directory into any of the 3 template folders ts, esm and cjs in the API boilerplate template repository, and run the same npm scripts mentioned in the user doc i.e. npm install, npm run dev:atlas, npm run dev:local, etc.
 
 ***
 
