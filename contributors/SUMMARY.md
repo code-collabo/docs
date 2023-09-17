@@ -9,27 +9,27 @@
 
 ## node mongo project
 
-* [ℹ Doc pages not yet available](node-mongo-project/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Node Mongo Projects](node-mongo-project/contribute-to-node-mongo-projects.md)
 
 ## collabo web app project
 
-* [ℹ Doc pages not yet available](collabo-web-app-project/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Collabo Web App](collabo-web-app-project/contribute-to-collabo-web-app.md)
 
 ## Collabo CSS project
 
-* [ℹ Doc pages not yet available](collabo-css-project/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Collabo CSS](collabo-css-project/contribute-to-collabo-css.md)
 
 ## collabo documentation projects
 
-* [ℹ Doc pages not yet available](collabo-documentation-projects/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Collabo Documentation Projects](collabo-documentation-projects/contribute-to-collabo-documentation-projects.md)
 
 ## collabo blog project
 
-* [ℹ Doc pages not yet available](collabo-blog-project/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Collabo Blog](collabo-blog-project/contribute-to-collabo-blog.md)
 
 ## git and github for collaboration project
 
-* [ℹ Doc pages not yet available](git-and-github-for-collaboration-project/doc-pages-not-yet-available.md)
+* [ℹ Contribute to Git and GitHub For Collaboration Course](git-and-github-for-collaboration-project/contribute-to-git-and-github-for-collaboration-course.md)
 
 ## back to docs home
 
