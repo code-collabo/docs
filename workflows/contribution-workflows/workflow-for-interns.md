@@ -2,7 +2,7 @@
 description: INTERN PROJECTS AND TASKS WORKFLOW ON GITHUB
 ---
 
-# Workflow for Interns
+# ℹ Workflow for Interns
 
 ***
 
@@ -21,7 +21,9 @@ Interns have permission to assign themselves to issue tickets in our GitHub orga
 
 ## Project and Git Workflow
 
-Add content here
+{% hint style="info" %}
+_**Content coming soon:**_ Check back on or before the end of this week
+{% endhint %}
 
 ***
 

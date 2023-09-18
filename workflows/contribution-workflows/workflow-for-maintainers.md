@@ -2,7 +2,7 @@
 description: MAINTAINER PROJECTS AND TASKS WORKFLOW ON GITHUB
 ---
 
-# Workflow for Maintainers
+# ℹ Workflow for Maintainers
 
 ***
 
@@ -21,7 +21,9 @@ Maintainers and community mentors have permission to assign themselves to issue 
 
 ## Project and Git Workflow
 
-Add content here
+{% hint style="info" %}
+_**Content coming soon:**_ Check back on or before the end of this week
+{% endhint %}
 
 ***
 

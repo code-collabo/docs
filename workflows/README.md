@@ -2,7 +2,7 @@
 description: GENERAL CONTRIBUTOR PROJECTS AND TASKS WORKFLOW ON GITHUB
 ---
 
-# Workflow for Contributors
+# ℹ Workflow for Contributors
 
 ***
 
@@ -15,7 +15,9 @@ description: GENERAL CONTRIBUTOR PROJECTS AND TASKS WORKFLOW ON GITHUB
 
 ## Project and Git Workflow
 
-Add content here
+{% hint style="info" %}
+_**Content coming soon:**_ Check back on or before the end of this week
+{% endhint %}
 
 ***
 
