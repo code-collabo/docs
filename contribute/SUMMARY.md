@@ -42,3 +42,7 @@
 ## collabo contributors
 
 * [Collabo Contributors](https://github.com/code-collabo/.github#collabo-contributors)
+
+## collabo discord server
+
+* [Collabo Discord Server](https://discord.gg/aq7MZBAGYM)
