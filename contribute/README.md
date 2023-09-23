@@ -11,7 +11,7 @@ _In this guide, you will find ongoing projects you can contribute to. Our curren
 ***
 
 {% hint style="info" %}
-Before you check out the projects listed below and before you start contributing, please read the following: the _**community code of conduct**_, the _**contributing guide**_, and the _**workflow**_ we adopt when developing our projects. You can find these in the sidebar.
+Before you check out the projects listed below and before you start contributing, please read the following: the community _**code of conduct**_, the _**contributing guide**_, and the _**workflow**_ we adopt when developing our projects. You can find these in the sidebar.
 {% endhint %}
 
 ***
