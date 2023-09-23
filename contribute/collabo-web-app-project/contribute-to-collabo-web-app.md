@@ -8,7 +8,7 @@ description: CONTRIBUTING DOC FOR COLLABO WEB APP
 
 _Number of projects:_ 2
 
-_Languages or tools:_ Javascript, Typescript, Node Js, Express Js, MongoDB, Reactjs, Nextjs, Figma
+_Languages or tools:_ Javascript, Typescript, Node Js, Express Js, MongoDB, React Js, Next Js, Figma
 
 ***
 

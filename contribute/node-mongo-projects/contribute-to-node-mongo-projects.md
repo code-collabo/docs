@@ -8,7 +8,7 @@ description: CONTRIBUTING DOC FOR NODE MONGO PROJECTS
 
 _Number of projects:_ 3
 
-_Languages or tools:_ Javascript, Typescript, Node Js, MongoDB
+_Languages or tools:_ Javascript, Typescript, Node Js, Express Js, MongoDB
 
 ***
 
