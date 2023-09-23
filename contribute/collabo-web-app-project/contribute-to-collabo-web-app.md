@@ -6,126 +6,56 @@ description: CONTRIBUTING DOC FOR COLLABO WEB APP
 
 ***
 
-_Number of projects:_ 3
+_Number of projects:_ 2
 
-_Languages or tools:_ Javascript, Typescript, Expressjs, MongoDB, Reactjs, Nextjs, Figma, Draw.io
-
-_Issues:_ [https://github.com/code-collabo/web-app/issues](https://github.com/code-collabo/web-app/issues)
+_Languages or tools:_ Javascript, Typescript, Expressjs, MongoDB, Reactjs, Nextjs, Figma
 
 ***
+
+_**Description:**_ The Code Collabo Web app has 2 projects inside it:
+
+* Frontend client: The Frontend client is the User Interface of the Collabo Web app. The client interacts with the back-end server of the Collabo Web app.
+* Server: The server API is the back-end (or server-side) of the Collabo web app. It contains the API calls used by the front-end client of the Collabo Web app.
+
+***
+
+_**Local development instructions:**_
+
+* Cloning and developing locally on your computer: Visit the _**Project and Git Workflow**_ section from the _**Contribution Workflow**_ page. General guidance for how to clone and work with our repositories (depending on what type of contributor you are) exists there.
+* Repository URL (this will come in handy when following the _**Project and Git Workflow**_ instructions): [https://github.com/code-collabo/collabo-web-app](https://github.com/code-collabo/collabo-web-app)
+* Once you have the repository on your local computer, see the tabs below for other instructions, depending on the Collabo Web App project you want to run.
 
 {% tabs %}
-{% tab title="Server API Development" %}
-_**Repository URL:**_ [https://github.com/code-collabo/web-app](https://github.com/code-collabo/web-app)
+{% tab title="Frontend Client" %}
+_**Instructions for installing dependencies and starting the frontend client:**_
 
-***
-
-The server API is the back-end (or server-side) of the Code Collabo web application. It contains the API calls used by the front-end (client-side).
-
-Ensure to clone (and fork) based on the instruction in the contributing guide (depending on your role) before commencing contribution.
-
-***
-
-**START SERVER API**
-
-_**Connection Option 1 (MongoDB ATLAS)**_
-
-**Step 1**
-
-change directory into the server folder
-
-**Step 2**
+* Change directory into the `client` folder of the repository
+* Once in the `client` folder, follow the steps below
 
 Install dependencies:
 
-```sh
+```
 npm install
 ```
 
-**Step 3**
+Run the development server:
 
-* Ensure you have internet connection
-* Have a monogDB atlas cluster set up in the cloud
-* Get your atlas mongoDB uri string
-
-**Step 4**
-
-* Rename the `.env.example` file to `.env`
-* Change `PORT_ATLAS` environment variable to your preferred port number in the .env file
-* Add your atlas mongoDB uri string to the `MONGODB_ATLAS_URI` environment variable in the .env file
-
-**Step 5**
-
-Start the automated development server and choose ATLAS connection:
-
-```sh
+```
 npm run dev
 ```
-
-**Step 5 (alternative)**
-
-You can also use the (manual) development server alternative for connection to mongoDB atlas:
-
-```sh
-npm run dev:atlas
-```
-
-
-
-**Connection option 2: Running the development server (mongoDB local)**
-
-**Step 1**
-
-change directory into the server folder
-
-**Step 2**
-
-Install dependencies:
-
-```sh
-npm install
-```
-
-**Step 3**
-
-* Have mongoDB installed and running on your computer
-* Get your local mongoDB uri string
-
-**Step 4**
-
-* Rename the `.env.example` file to `.env`
-* Change `PORT_LOCAL` environment variable to your preferred port number in the .env file
-* Add your local mongoDB uri string to the `MONGODB_LOCAL_URI` environment variable in the .env file
-
-**Step 5**
-
-Start the automated development server and choose LOCAL connection:
-
-```sh
-npm run dev
-```
-
-**Step 6 (alternative)**
-
-You can also use the (manual) development server alternative for connection to local mongoDB:
-
-{% code fullWidth="false" %}
-```sh
-npm run dev:local
-```
-{% endcode %}
 {% endtab %}
 
-{% tab title="Client Development" %}
-{% hint style="info" %}
+{% tab title="Backend Server API" %}
+_**Instructions for installing dependencies and starting the backend server API:**_
 
-
-No documentation is available yet, check back later.
-{% endhint %}
+* Change directory into the `server` folder of the repository
+* Once in the `server` folder, follow _**steps 1 to 4**_ in the tabs under the [Running the generated backend API application](https://code-collabo.gitbook.io/node-mongo-user/node-mongo-user-docs/readme#running-the-generated-backend-api-application) section of the node-mongo user docs, depending on the connection setup type you prefer to use.
 {% endtab %}
 {% endtabs %}
 
+***
 
+_**Issues and issue tickets:**_
 
-
-
+* Finding issues: While you can find all Collabo Web app issues at this URL [https://github.com/code-collabo/collabo-web-app/issues](https://github.com/code-collabo/collabo-web-app/issues), we recommend that you follow the general guide for finding issues in the _**How and Where to report issues**_ section, which can be found somewhere in the _**Contribution Workflow**_.
+* Reporting issues: We recommend that you follow the general guide for reporting issues in the _**How to find tasks or issues to work on**_ section, which can be found somewhere in the _**Contribution Workflow**_. Submitting the issues you detect this way will help us to sort them, and send them to the appropriate project board for you and other contributors to work on them.
