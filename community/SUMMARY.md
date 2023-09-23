@@ -7,11 +7,11 @@
 
 ## collabo website
 
-* [Collabo Website](https://code-collabo.gitbook.io/docs/)
+* [🔗 Collabo Website](https://code-collabo.gitbook.io/docs/)
 
 ## collabo contributors
 
-* [Collabo Contributors](https://github.com/code-collabo/.github#collabo-contributors)
+* [🔗 Collabo Contributors](https://github.com/code-collabo/.github#collabo-contributors)
 
 ## collabo discord server
 
