@@ -4,7 +4,7 @@
 
 * [👷 Contribute to Collabo projects](README.md)
 * [📔 Code of Conduct](collabo-contributor-docs/code-of-conduct.md)
-* [💡 Contributing guide](collabo-contributor-docs/contributing-guide.md)
+* [💡 Contributing Guide](collabo-contributor-docs/contributing-guide.md)
 * [🟨 Contribution Workflow](collabo-contributor-docs/contribution-workflow.md)
 
 ## node mongo projects
