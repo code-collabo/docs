@@ -15,10 +15,6 @@
 
 * [ℹ Contribute to Collabo Web App](collabo-web-app-project/contribute-to-collabo-web-app.md)
 
-## Collabo CSS project
-
-* [ℹ Contribute to Collabo CSS](collabo-css-project/contribute-to-collabo-css.md)
-
 ## collabo documentation projects
 
 * [ℹ Contribute to Collabo Documentation Projects](collabo-documentation-projects/contribute-to-collabo-documentation-projects.md)
