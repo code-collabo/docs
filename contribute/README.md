@@ -28,12 +28,6 @@ The Collabo Web App is an internal project we are building to help create more a
 
 ***
 
-## Collabo CSS
-
-The Collabo CSS framework will help its users style web app projects easily compared to existing libraries or frameworks. When it is published, it will not only be usable for styling the web projects we build in the Code Collabo community. It is built in a way that other communities or persons can use it also. This project is still at the initial stage. [_**Go to Collabo CSS Contributor docs.**_](https://code-collabo.gitbook.io/collabo-contributor/collabo-css-project/contribute-to-collabo-css)
-
-***
-
 ## Collabo Docs
 
 Documentation involves writing any of the following: Instructions to help new and old community members (contributors or users) navigate through and get the best out of the community. User instructions for where to find and how to use published code collabo projects/products. Instructions to help contributors with information on how to contribute, where to find projects to contribute to within the community, the workflows, and set up guides for the projects they choose/wish to contribute to. [_**Go to Contributor docs for the Collabo documentation.**_](https://code-collabo.gitbook.io/collabo-contributor/collabo-documentation-projects/contribute-to-collabo-documentation-projects)
