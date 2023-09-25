@@ -7,7 +7,7 @@ description: INTERN PROJECTS AND TASKS WORKFLOW ON GITHUB
 ***
 
 {% hint style="info" %}
-Interns have permission to assign themselves to issue tickets in our GitHub organization
+Fork a repository to make and submit changes. Assign yourself to an issue ticket from the GitHub project boards and start fixing the issue straight up.
 {% endhint %}
 
 ***

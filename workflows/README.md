@@ -6,6 +6,12 @@ description: GENERAL CONTRIBUTOR PROJECTS AND TASKS WORKFLOW ON GITHUB
 
 ***
 
+{% hint style="info" %}
+Fork a repository to make and submit changes. Comment on an issue ticket from the GitHub project boards to get assigned to it, before attempting to fix the issue.
+{% endhint %}
+
+***
+
 ## How to find Tasks or issues to work on
 
 * Check the _**Todo**_ column of the [Collabo Sprints and Task Progress Board](https://github.com/orgs/code-collabo/projects/1), and pick an unassigned issue ticket i.e. comment on the issue ticket to get assigned to it.&#x20;

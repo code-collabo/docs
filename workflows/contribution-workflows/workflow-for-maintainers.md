@@ -7,7 +7,7 @@ description: MAINTAINER PROJECTS AND TASKS WORKFLOW ON GITHUB
 ***
 
 {% hint style="info" %}
-Maintainers and community mentors have permission to assign themselves to issue tickets. They can clone and push to the repositories in our GitHub organization without needing to fork the repositories.
+Clone a repository directly to make and submit changes, no need to fork it. Assign yourself to an issue ticket from the GitHub project boards and start fixing the issue straight up.
 {% endhint %}
 
 ***
