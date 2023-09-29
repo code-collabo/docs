@@ -7,5 +7,5 @@ description: CODE COLLABO DOCUMENTATION WALKTHROUGH
 ***
 
 {% hint style="info" %}
-**Doc content coming soon:** Check back on or before the last day of September 2023.
+**Doc content coming soon:** Check back on or before 8 October 2023.
 {% endhint %}
