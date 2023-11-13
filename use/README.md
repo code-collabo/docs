@@ -1,8 +1,8 @@
 ---
-description: USE CODE COLLABO COMMUNITY PROJECTS
+description: COLLABO COMMUNITY USER DOCUMENTATION
 ---
 
-# 🎁 User Docs: Use Collabo projects
+# 🎁 Collabo Community User Documentation
 
 ***
 
@@ -18,4 +18,4 @@ Build simple to complex backend applications for your projects with our node-mon
 
 ## Community Blog
 
-Find, read, and share interesting educative content/topics around open source, open source contributions, and app development generally. [_**Go to Code Collabo's Hashnode blog.**_](https://code-collabo.hashnode.dev/)
+Find, read, and share interesting educative content/topics around open source, open source contributions, and app development generally. [_**Go to Collabo Community's Hashnode blog**_](https://collabocommunity.hashnode.dev/)_**.**_
