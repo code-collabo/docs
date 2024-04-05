@@ -1,12 +1,3 @@
 # Code Collabo Documentation
 
-Link to Code Collabo's community and projects documentation: https://code-collabo.gitbook.io/docs
-
-#
-
-Find out how to contribute to community and/or projects documentation in the **contributor docs** section of the documentation
-
-#
-
-Learn how to use the documentation from the **docs walkthrough page** of the documentation
-
+> We no longer develop docs here. Head over to the new repository: https://github.com/collabo-community/docs
