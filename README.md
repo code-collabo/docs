@@ -1,3 +1,8 @@
+
+> We no longer develop projects in this GitHub organisation. Head over to our new GitHub organisation to find projects to contribute to: https://github.com/collabo-community
+
+#
+
 # Code Collabo Documentation
 
-> We no longer develop docs here. Head over to the new repository: https://github.com/collabo-community/docs
+Code Collabo Documentation
